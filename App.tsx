@@ -76,9 +76,11 @@ function App(): React.JSX.Element {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-            <Section title="Nông Quang Huy - 20110496">
+          <Section title="Nông Quang Huy - 20110496">
           </Section>
           <Section title="Nguyễn Minh Toàn - 20110577">
+          </Section>
+          <Section title="Nguyễn Minh Toàn - 20110470">
           </Section>
         </View>
       </ScrollView>
