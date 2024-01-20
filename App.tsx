@@ -80,7 +80,7 @@ function App(): React.JSX.Element {
           </Section>
           <Section title="Nguyễn Minh Toàn - 20110577">
           </Section>
-          <Section title="Nguyễn Minh Toàn - 20110470">
+          <Section title="Phạm Văn Hào - 20110470">
           </Section>
         </View>
       </ScrollView>
